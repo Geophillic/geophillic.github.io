@@ -1,4 +1,5 @@
-![Ademola Ibrahim Oladipupo](img/IMG_8420-removebg-preview.jpg)
+![Ademola Ibrahim Oladipupo](img/sent_2.jpg)
+![](img/sentinel_1.jpg)
 # About Me
 Hi there! <br>
 I am a result-oriented professional with a strong interest in evidence-based research on how the built environment influences socioeconomic, environmental, and human interactions in urban ecosystems. Committed to promoting urban resilience, leveraging geospatial technologies and research methods in investigating spatial patterns, land use dynamics, and urban systems. Focused on generating data-driven insights that support sustainable and resilient urban environments amidst growing environmental and demographic pressures. My goal is to connect spatial analysis with planning approaches to improve urban livability and reduce vulnerability to environmental and socio-spatial challenges.
