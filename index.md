@@ -5,8 +5,6 @@ I am a result-oriented professional with a strong interest in evidence-based res
 </p>
 
 # Education
-<p align="justify">
-  
 **Msc. Geographical Information System and Spatial Planning**, University of Porto, Portugal,  [www.up.pt](https://www.up.pt/) (2025 - till date) <br>
 
 **Ms. Disaster Science and Climate Resilience**, University of Dhaka, Bangladesh, [www.du.ac.bd](https://www.du.ac.bd/)  (2023 - 2024) <br>
