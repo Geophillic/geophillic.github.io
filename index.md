@@ -9,19 +9,9 @@ I am a result-oriented professional with a strong interest in evidence-based res
   
 **Msc. Geographical Information System and Spatial Planning**, University of Porto, Portugal,  [www.up.pt](https://www.up.pt/) (2025 - till date) <br>
 
-</p>
-
-<p align="justify">
-  
 **Ms. Disaster Science and Climate Resilience**, University of Dhaka, Bangladesh, [www.du.ac.bd](https://www.du.ac.bd/)  (2023 - 2024) <br>
-
-</p>
-
-<p align="justify">
-  
+ 
 **B.tech Remote Sensing and Geoscience Information System**, Federal University of Technology Akure, Nigeria, [www.futa.edu.ng](https://www.futa.edu.ng/) (2014 - 2018) <br>
-
-</p>
 
 # Research area of Interest
 # Publication
