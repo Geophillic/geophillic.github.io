@@ -22,8 +22,6 @@ This map shows the spatial boundary of the Faculdade de Ciências da Universidad
 <embed type="text/html" src="/img/uniporto_mapp.html" height="650" width="850">
 </p>
 
-## Boulder Temperature changes Over 30 years (1996 - 2026)
-
-<p align="justify">
-Data used: Python librarries (Pandas, holoview), temperature data from NCEI
+## Boulder Temperature changes Over 30 years (1996 - 2026): <br>
+Data used: Python librarries (Pandas, holoview), temperature data from NCEI <br>
 <embed type="text/html" src="/img/boulder_plot.html" height="850" width="850">
